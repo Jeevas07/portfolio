@@ -1,1 +1,85 @@
 
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Jeeva S – Web Developer Portfolio</title>
+  <link rel="stylesheet" href="main.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet" />
+ <link rel="icon" href="favicon.ico" type="image/x-icon" />
+</head>
+<body>
+  <header>
+    <img src="jeeva.jpg" alt="Jeeva S" class="profile-image" />
+    <h1>Jeeva S</h1>
+   <p><img src="developer.png" alt="Web Developer" class="role-image" /> Web Developer </p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>
+      I am a passionate learner with a strong interest in web development, eager to build a career in the field of
+      information technology and web development. Seeking a challenging position in IT where I can apply my skills in
+      web development and grow professionally.
+    </p>
+  </section>
+
+  <section class="skills">
+    <h2>Skills</h2>
+    <div class="skills-list">
+  <span class="skill-item">
+    <img src="html.jpg" alt="HTML" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">HTML</a>
+  </span>
+  <span class="skill-item">
+    <img src="css.jpg" alt="CSS" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a>
+  </span>
+  <span class="skill-item">
+    <img src="js.jpg" alt="JavaScript" />
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">JavaScript</a>
+  </span>
+  <span class="skill-item">
+    <img src="canva.jpg" alt="Canva" />
+    <a href="https://www.canva.com/">Canva</a>
+  </span>
+</div>
+    <p>
+      I have a strong foundation in HTML, CSS, and JavaScript, with experience in creating responsive and user-friendly
+      web applications. I am also proficient in using design tools like Canva for creating visually appealing designs.
+    </p>
+  </section>
+
+  <section class="projects">
+    <h2>Projects</h2>
+    <div class="project-card">
+      <h3>Resume Website</h3>
+      <p>
+        Created a personal resume website to showcase my academic and professional details, skills, and projects.
+      </p>
+      <a href="https://jeevas07.github.io/Resume/" target="_blank">View Project</a>
+    </div>
+    <div class="project-card">
+      <h3>Blood Bank & Donor Management System</h3>
+      <p>
+        Developed as a college project, this system manages donor details, blood group availability, and donation
+        records.
+      </p>
+    </div>
+  </section>
+
+  <section class="contact">
+    <h2>Contact</h2>
+    <a href="mailto:sj160189@gmail.com">sj160189@gmail.com</a>
+    <a href="tel:+917339106440">+91 73391 06440</a>
+    <a href="https://www.linkedin.com/in/jeeva-s7-531a0b352" target="_blank">LinkedIn Profile</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Jeeva S. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
