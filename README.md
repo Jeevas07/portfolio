@@ -11,7 +11,7 @@
   <header>
     <img src="jeeva.jpg" alt="Jeeva S" class="profile-image" />
     <h1>Jeeva S</h1>
-   <p><img src="developer.png" alt="Web Developer" class="role-image" /> Web Developer</a></p>
+   <p><img src="developer.png" alt="Web Developer" class="role-image" />  Web Developer </p>
   </header>
 
   <section class="about">
